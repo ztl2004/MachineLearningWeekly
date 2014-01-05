@@ -9,7 +9,7 @@ Machine Learning Weekly all Issues
 you may find all the issues on this page
 
 Issues: 1 in total
-==================
+------------------
    `issue 1_ <issue1.html>`_
    
 
