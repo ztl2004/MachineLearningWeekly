@@ -13,12 +13,13 @@ I hope you will enjoy this and let's together make it better.
 
 I am MonkeyRobot and you may email me by ztl2004@gmail.com, or for chinese fellows you may find my by my weibo_.
 
-.. _weibo: weibo.com/u/1966427173/
+.. _weibo: http://weibo.com/u/1966427173/
 
 .. toctree::
    :maxdepth: 2
-
-
+   
+all issues
+current issue
 
 Indices and tables
 ==================
