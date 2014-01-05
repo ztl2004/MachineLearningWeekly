@@ -18,8 +18,8 @@ I am MonkeyRobot and you may email me by ztl2004@gmail.com, or for chinese fello
 .. toctree::
    :maxdepth: 2
    
-    all_issues
-    current_issue
+   all_issues.rst
+   current_issue.rst
 
 Indices and tables
 ==================
