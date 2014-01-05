@@ -6,7 +6,14 @@
 Welcome to Machine Learning Weekly's documentation!
 ===================================================
 
-Contents:
+Hello Fellows...Machine Learning Weekly is just a weekly updates of computer science and technology, it includes all kinds of interesting or maybe wired staff, like
+machine learning, artificial intelligence, data mining, robotics and even related startups, etc.
+
+I hope you will enjoy this and let's together make it better.
+
+I am MonkeyRobot and you may email me by ztl2004@gmail.com, or for chinese fellows you may find my by my weibo_.
+
+.. _weibo: weibo.com/u/1966427173/
 
 .. toctree::
    :maxdepth: 2
