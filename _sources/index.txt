@@ -17,10 +17,6 @@ I am MonkeyRobot and you may email me by ztl2004@gmail.com, or for chinese fello
 
 you can find all the issues `here <all_issues.html>`_.
 
-and current issue `here <current_issue.html>`_.
-.. toctree::
-   :maxdepth: 2
-
 Indices and tables
 ==================
 
