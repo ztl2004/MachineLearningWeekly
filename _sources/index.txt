@@ -17,6 +17,8 @@ I am MonkeyRobot and you may email me by ztl2004@gmail.com, or for chinese fello
 
 you can find all the issues `here <all_issues.html>`_.
 
+you can subscribe to our newsletter `here <subscribe.html>`_.
+
 Indices and tables
 ==================
 
