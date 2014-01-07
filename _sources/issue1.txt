@@ -8,14 +8,14 @@
 各种新闻
 ========
 
-`ButtonMasher: AI takes on humans to create video game <http://www.newscientist.com/article/dn24801-buttonmasher-ai-takes-on-humans-to-create-video-game.html>`_
+`ButtonMasher: AI takes on humans to create video game 
+<http://www.newscientist.com/article/dn24801-buttonmasher-ai-takes-on-humans-to-create-video-game.html>`_
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 还在群殴游戏里面的人工智能么？人工智能都能自己设计程序了。。。
 
-Study: Self-driving car sales will explode_
--------------------------------------------
-.. _explode: http://www.usatoday.com/story/money/cars/2014/01/02/self-driving-study/4292893/
+`Study: Self-driving car sales will explode <http://www.usatoday.com/story/money/cars/2014/01/02/self-driving-study/4292893/>`_
+-------------------------------------------------------------------------------------------------------------------------------
 
 智能车明年要井喷了，看CES上面报名的汽车厂商，前10有9个在列，而且google搞了一个开放汽车联盟，杀他个片甲不留呵呵。
 
