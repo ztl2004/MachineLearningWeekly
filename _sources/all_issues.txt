@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Machine Learning Weekly all Issues
+机器学习周刊的全部周刊：
 ===================================================
 
-you may find all the issues on this page
+恩，都在这呢：
 
 Issues: 1 in total
 ------------------

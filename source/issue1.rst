@@ -1,8 +1,28 @@
-Machine Learning Weekly issue 1: New Age
+机器学习周刊第一期：新纪元
 ===================================================
 
-I am MonkeyRobot and you may email me by ztl2004@gmail.com, or for chinese fellows you may find my by my weibo_.
+我是小猴机器人，可以通过微博_联系我。
 
-.. _weibo: http://weibo.com/u/1966427173/
+.. _微博: http://weibo.com/u/1966427173/
+
+各种新闻
+========
+
+ButtonMasher: AI takes on humans to create video game_
+-----------------------------------------------------
+.. _game: http://www.newscientist.com/article/dn24801-buttonmasher-ai-takes-on-humans-to-create-video-game.html
+
+还在群殴游戏里面的人工智能么？人工智能都能自己设计程序了。。。
+
+Study: Self-driving car sales will explode_
+-------------------------------------------
+.. _explode: http://www.usatoday.com/story/money/cars/2014/01/02/self-driving-study/4292893/
+
+智能车明年要井喷了，看CES上面报名的汽车厂商，前10有9个在列，而且google搞了一个开放汽车联盟，杀他个片甲不留呵呵。
+
+各种课程
+========
+各种系统
+========
 
 
