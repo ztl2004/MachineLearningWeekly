@@ -8,8 +8,7 @@
 各种新闻
 ========
 
-`ButtonMasher: AI takes on humans to create video game
-<http://www.newscientist.com/article/dn24801-buttonmasher-ai-takes-on-humans-to-create-video-game.html>`_
+`ButtonMasher: AI takes on humans to create video game <http://www.newscientist.com/article/dn24801-buttonmasher-ai-takes-on-humans-to-create-video-game.html>`_
 ---------------------------------------------------------------------------------------------------------
 
 还在群殴游戏里面的人工智能么？人工智能都能自己设计程序了。。。
