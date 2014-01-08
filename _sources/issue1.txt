@@ -20,7 +20,7 @@
 
 `Why Is Machine Learning (CS 229) The Most Popular Course At Stanford? <http://www.forbes.com/sites/anthonykosner/2013/12/29/why-is-machine-learning-cs-229-the-most-popular-course-at-stanford/>`_
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Andrew Ng 牛啊，讲课深入浅出，机器学习成了MIT选课人数第一的教授，话说央视做了个互联网时代节目，还采访了吴老板，回头一定围观。
+Andrew Ng 牛啊，讲课深入浅出，机器学习成了Stanford选课人数第一的教授，话说央视做了个互联网时代节目，还采访了吴老板，回头一定围观。
 
 `Data Story: John Foreman of MailChimp on the Data Science Behind Emails <http://blog.gnip.com/mailchimp-data-science/>`_
 -------------------------------------------------------------------------------------------------------------------------
