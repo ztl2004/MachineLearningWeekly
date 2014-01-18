@@ -208,7 +208,7 @@ Malik居然也做起Deep Learning来了。用CNN做detection，效果超过了De
 还有个我自己实现的简单CNN供参考，200行MATLAB，轻松MNIST上跑个98% http://t.cn/8F4DFZU 欢迎提意见挑毛病！
 
 @Google谷歌爱好者 
---------------
+-------------------
 【经济学人：谷歌进军硬件市场 成为新时代的GE】周六即将出版的新一期《经济学人》杂志在题目为“谷歌：新通用电气”(The new GE: Google, everywhere)的文章中称，
 
 在软件市场取得成功后，谷歌近期又通过一系列并购进入硬件市场，俨然成为了“新通用电气”。 http://t.cn/8Fb2Mf9
