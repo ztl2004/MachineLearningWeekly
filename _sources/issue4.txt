@@ -265,7 +265,10 @@ CMU机器学习系Eric Xing老师的Probabilistic Graphic Model已经开了10个
 
 【我很想知道怎么做Evaluation，以及话说DNN比GMM在表征上确实好一些】PETD亚洲善待博士组织
 ---------------------------------------------------------------------------------------
-这位同学你毕业论文这么屌，你家里人知道么！录用自：@Xieldor 【《色情视频的音频辅助识别》请戳大图！
+这位同学你毕业论文这么屌，你家里人知道么！录用自：@Xieldor 
+
+《色情视频的音频辅助识别》请戳大图！
+
 http://ww1.sinaimg.cn/mw1024/bf39f2bbjw1ecvof9hvdej20m80z9dnz.jpg
 
 【ICCV2013那个搞十字路口车流的demo有异曲同工之意，Prediction和Inference才是AI啊】@36氪
