@@ -10,7 +10,9 @@
 
 Issues: 1 in total
 ------------------
-   `issue 3 (current) <issue3.html>`_
+   `issue 4 (current) <issue4.html>`_
+
+   `issue 3 <issue3.html>`_
    
    `issue 2 <issue2.html>`_
    
