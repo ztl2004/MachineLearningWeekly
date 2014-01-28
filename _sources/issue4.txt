@@ -33,7 +33,9 @@
 
 3、斯坦福遥控直升机倒悬是吴老板做的；
 
-4、Deep Learning最初最好看的教程是吴老板写的，并且还有中文版，（邓侃当年率众分分钟翻译完成）：http://deeplearning.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B
+4、Deep Learning 最初最好看的教程是吴老板写的；
+    
+    并且还有中文版，（邓侃当年率众分分钟翻译完成）：http://deeplearning.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B
 
 5、新闻介绍两篇：
 
