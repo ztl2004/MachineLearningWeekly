@@ -56,7 +56,7 @@
 
 `Marvin Minsky honored for lifetime achievements in artificial intelligence <http://web.mit.edu/newsoffice/2014/marvin-minsky-honored-for-lifetime-achievements-in-artificial-intelligence.html>`_
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-老爷子，当年跟Peter Novig对吵，anti 概率model，现在拿了终身成就奖。。。
+老爷子，麻省理工AI实验室创始人，神经元理论缔造者。（当年跟Peter Novig对吵，anti 概率model，那个是语言学家cheomsky）
 
 `谷歌自动驾驶汽车工程师在家中遭反对组织围堵 <http://www.cnbeta.com/articles/269870.htm>`_
 -------------------------------------------------------------------------------------------------------------------------------
@@ -293,7 +293,7 @@ http://ww1.sinaimg.cn/mw1024/bf39f2bbjw1ecvof9hvdej20m80z9dnz.jpg
 和#概率图模型# Probabilistic Graphical Models，由PGM那本教材作者授课。链接： http://t.cn/S2RYol
 
 【越是毫无细节的文章越是激发无限好奇啊。。。小团队好做事】@远东轶事
--------------------------------------------------------
+-------------------------------------------------------------------
 在谷歌无人车组的工作感想：到谷歌无人车组全职工作已经有四个月了。
 
 写一下感想。 鉴于项目的高度机密性，很多话不能说，我唯一能透露的，就是两条：同事们都很牛，然后都非常努力。
@@ -353,7 +353,7 @@ Andrew Y. Ng 他们在"Improving Word Representations via Global Context and Mul
 @Copper_PKU:我觉得结合这篇看 Representation Learning: A Review and New Perspectives， Yoshua Bengio etc. 效果更好
 
 【Spark benchmark跑分比较】@薛正华-中国科学院 
----------------------------
+--------------------------------------------------
 When you hesitate to determine Hive Spark or Impala, please reference it: http://t.cn/8F2LUsP A wonderful work by AMPLab. @hashjoin
 
 【机器视觉创业谈】@winsty
